@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="097b0cd7-dab9-42bd-a958-9ea4f2abe6f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fOdPu8nFEQjse1FJEBhQaVEZgF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask_iTesting" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_params.TestSOUMi">
+    <configuration name="pytest for test_assert.TestSOUMi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppAutomationTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_assert.TestSOUMi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_assert.TestSOUMi.test_find_element" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppAutomationTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_assert.TestSOUMi.test_find_element&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_hamcrest.TestSOUMi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppAutomationTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hamcrest.TestSOUMi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_hamcrest.TestSOUMi.test_Hamcrest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppAutomationTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hamcrest.TestSOUMi.test_Hamcrest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_params.TestSOUMi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppAutomationTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_params.TestSOUMi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_params.TestSOUMi" />
+        <item itemvalue="Python tests.pytest for test_hamcrest.TestSOUMi" />
+        <item itemvalue="Python tests.pytest for test_hamcrest.TestSOUMi.test_Hamcrest" />
+        <item itemvalue="Python tests.pytest for test_assert.TestSOUMi" />
+        <item itemvalue="Python tests.pytest for test_assert.TestSOUMi.test_find_element" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097b0cd7-dab9-42bd-a958-9ea4f2abe6f2" name="Default Changelist" comment="" />
+      <created>1596093051920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596093051920</updated>
+      <workItem from="1596093113134" duration="5319000" />
+      <workItem from="1596527284066" duration="30633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1596096206017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596096206017" />
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1596787888725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596787888725" />
+    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1596787888725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.center/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596787888725" />
+    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1596787888725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.left/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596787888725" />
+    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1596787888725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.right/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596787888725" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1596704556098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596704556098" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1596788292769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596788292769" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596704482007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/1920.4.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1596704482007" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_toast_TestSOUMi_test_login.coverage" NAME="pytest for test_toast.TestSOUMi.test_login Coverage Results" MODIFIED="1596703713287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_hamcrest_TestSOUMi.coverage" NAME="pytest for test_hamcrest.TestSOUMi Coverage Results" MODIFIED="1596782460669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_demo_TestSOUMi_test_demo.coverage" NAME="pytest for test_demo.TestSOUMi.test_demo Coverage Results" MODIFIED="1596700869135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_params_TestSOUMi.coverage" NAME="pytest for test_params.TestSOUMi Coverage Results" MODIFIED="1596785093639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_assert_TestSOUMi_test_find_element.coverage" NAME="pytest for test_assert.TestSOUMi.test_find_element Coverage Results" MODIFIED="1596704114585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_assert_TestSOUMi.coverage" NAME="pytest for test_assert.TestSOUMi Coverage Results" MODIFIED="1596704222696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_hamcrest_TestSOUMi_test_Hamcrest.coverage" NAME="pytest for test_hamcrest.TestSOUMi.test_Hamcrest Coverage Results" MODIFIED="1596782385390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+    <SUITE FILE_PATH="coverage/AppAutomationTesting$pytest_for_test_demo_TestSOUMi_test_case.coverage" NAME="pytest for test_demo.TestSOUMi.test_case Coverage Results" MODIFIED="1596700798065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch2" />
+  </component>
+</project>
