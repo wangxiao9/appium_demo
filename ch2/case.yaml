@@ -1,0 +1,14 @@
+# 简单的case_yaml模板
+- Descripton: 进入搜索页面
+  Methods: id
+  Value: ivSearch
+  Action: click
+- Descripton: 搜索测试数据
+  Methods: id
+  Value: etSearch
+  Action: send_keys
+  data: 测试
+- Descripton: 获取搜索值
+  Methods: id
+  Value: tvSearchResult
+  Action: text

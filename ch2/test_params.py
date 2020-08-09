@@ -3,8 +3,9 @@ __author__ = 'wangxiao'
 import pytest
 
 from appium import webdriver
+from appium.webdriver.extensions.android.nativekey import AndroidKey
 from hamcrest import assert_that, equal_to
-
+import os
 
 class TestSOUMi:
     def setup_class(self):
@@ -15,6 +16,7 @@ class TestSOUMi:
         caps["appActivity"] = ".activity.startActivity"
         caps["unicodeKeyboard"] = "true"
         caps["resetKeyboard"] = "true"
+        caps["automationName"] = "Appium"
         caps["autoGrantPermissions"] = "true"
         self.driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", caps)
         self.driver.implicitly_wait(10)
@@ -24,7 +26,9 @@ class TestSOUMi:
         self.driver.find_element_by_id('com.shoumi.shoumi:id/ivSearch').click()
         search_test = self.driver.find_element_by_id('com.shoumi.shoumi:id/etSearch')
         search_test.send_keys(key)
-        self.driver.press_keycode(66)
+        self.driver.implicitly_wait(1000)
+        os.system("adb shell ime set com.microvirt.memuime/.MemuIME")
+        self.driver.press_keycode(AndroidKey.ENTER)
         result = self.driver.find_element_by_id('com.shoumi.shoumi:id/tvSearchResult').text
         assert_that(result, equal_to(res))
         search_test.clear()
