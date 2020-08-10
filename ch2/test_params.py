@@ -19,7 +19,7 @@ class TestSOUMi:
         self.driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", caps)
         self.driver.implicitly_wait(10)
 
-    @pytest.mark.parametrize('key, res', [('2334', '关于 2334 的搜索结果'), ('455' , '关于 455 的搜索结果')])
+    @pytest.mark.parametrize('key, res', [('2334', u'关于 2334 的搜索结果'), ('455', u'关于 455 的搜索结果')])
     def test_search(self, key, res):
         self.driver.find_element_by_id('com.shoumi.shoumi:id/ivSearch').click()
         search_test = self.driver.find_element_by_id('com.shoumi.shoumi:id/etSearch')
